@@ -1,5 +1,8 @@
 # The Saga Pattern in Distributed Systems
 
+## Repository Status: Work in Progress
+
+**Please note that this repository is currently under active development and is not yet considered complete.**
 ## Introduction
 The Saga pattern is an architectural pattern used in distributed systems to maintain data consistency and manage long-running transactions. It helps ensure that data remains in a consistent state despite failures or partial successes during the execution of a transaction. This article explores the history of the Saga pattern, its purpose, and its relationship with choreography and orchestration.
 
@@ -42,7 +45,7 @@ The Saga pattern is an architectural pattern used in distributed systems to main
 - Future prospects and advancements in the field of distributed systems and the Saga pattern.
 
 
-##References:
+## References:
 - [1] Garcia-Molina, H., & Salem, K. (1987). SAGAS.
 - [2] Tanenbaum, A. S., & Van Steen, M. (2007). Distributed Systems: Principles and Paradigms.
 - [3] Garcia-Molina, H., & Salem, K. (1987). SAGAS.
